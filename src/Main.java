@@ -10,7 +10,6 @@ System.out.println("What is your age?");
         age = scanner.nextInt();
         System.out.println("What is your first name?");
         firstName = scanner.next();
-        System.out.println(firstName);
         scanner.nextLine();
         System.out.println("What is your favourite food?");
         favouriteFood = scanner.nextLine();
